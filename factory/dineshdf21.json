@@ -1,0 +1,9 @@
+{
+	"name": "dineshdf21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bcc4cf17-2f72-4623-9c5c-a8bf8c9e1378",
+		"tenantId": "fd45e760-442a-4366-be47-99fbb77ad9d1"
+	}
+}
